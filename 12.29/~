@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+ int a,b,c,n,i,k,buffer[7],player;
+ while(scanf("%d",&n)!=EOF)
+ {
+for(i =0 ; i <= n;i++)   //ÐÐÊý 
+{
+		
+}
+ return 0;
+}
